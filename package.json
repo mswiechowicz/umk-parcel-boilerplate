@@ -1,0 +1,23 @@
+{
+  "name": "umk-parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "parcel boilerplate",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mswiechowicz/umk-parcel-boilerplate.git"
+  },
+  "author": "mswiechowicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mswiechowicz/umk-parcel-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mswiechowicz/umk-parcel-boilerplate#readme",
+  "devDependencies": {
+    "parcel": "^2.8.1"
+  }
+}
